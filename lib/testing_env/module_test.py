@@ -11,7 +11,7 @@ def test_python_version():
 
 
 def test_requests_version():
-    assert requests_version() == "2.28.2"
+    assert requests_version() == "2.27.1"
 
 
 def test_pytest_version():
